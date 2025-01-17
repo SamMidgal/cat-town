@@ -8,7 +8,7 @@ A C(h)atGPT-powered simulation with cats. Inspired by the research paper [_Gener
 <img width="1452" alt="Screen Shot 2023-08-14 at 10 04 08 AM" src="https://github.com/ykhli/cat-town/assets/3489963/528ae3cd-c0f8-4835-a00d-a7db51f68b1b">
 
 ## Instructions
-Please visit [AI-town](https://github.com/PaulPhu/cat-town) for detailed installation and customization instructions.
+Please visit [AI-town](https://github.com/SamMidgal/cat-town) for detailed installation and customization instructions.
 
 ## Credits
 - Assets:
